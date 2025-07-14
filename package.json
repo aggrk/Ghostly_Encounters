@@ -7,14 +7,9 @@
   "scripts": {
     "start": "node --watch server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aggrk/Ghostly_Encounters.git"
-  },
-  "author": "Kennedy",
+  "author": "Kennesy Phinias",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aggrk/Ghostly_Encounters/issues"
-  },
-  "homepage": "https://github.com/aggrk/Ghostly_Encounters#readme"
+  "dependencies": {
+    "sanitize-html": "^2.16.0"
+  }
 }
